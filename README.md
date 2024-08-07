@@ -64,10 +64,10 @@ Není zatím známa
 
 ## 📄 Licence
 Tento projekt je licencován pod licencí Creative Commons Attribution 4.0 International (CC BY 4.0). To znamená, že můžete:
-- Sdílet — kopírovat a redistribuovat materiál v jakémkoli formátu nebo médiu
-- Upravovat — remixovat, transformovat a stavět na materiálu pro jakýkoli účel, dokonce i komerční
+- **Sdílet** — kopírovat a redistribuovat materiál v jakémkoli formátu nebo médiu
+- **Upravovat** — remixovat, transformovat a stavět na materiálu pro jakýkoli účel, dokonce i komerční
 
-Za následujících podmínek:
-- **Atributace** — Musíte uvést náležité uznání, poskytnout odkaz na licenci a uvést, zda byly provedeny změny. Můžete tak učinit jakýmkoli rozumným způsobem, ale ne způsobem, který by naznačoval, že poskytovatel licence vás nebo vaše použití schvaluje.
+Za podmínky **Atributace**:
+- Musíte uvést náležité uznání, poskytnout odkaz na licenci a uvést, zda byly provedeny změny. Můžete tak učinit jakýmkoli rozumným způsobem, ale ne způsobem, který by naznačoval, že poskytovatel licence vás nebo vaše použití schvaluje.
 
 Pro více informací navštivte [Creative Commons License](https://creativecommons.org/licenses/by/4.0/).

@@ -1,4 +1,3 @@
-
 # 🐶MSOZ Projekt
 Web pro *Mezinárodní spolek na ochranu zvířat*, který je založen na statické webové šabloně ve spojení s front-end frameworky a back-end programovacími jazyky. Web je rozdělen na několik webových stránek, přičemž se každá z nich zabývá konkrétním tématem.
 
@@ -24,17 +23,17 @@ Web pro *Mezinárodní spolek na ochranu zvířat*, který je založen na static
 ## 🎨Design
 Web se řídí několika designerskými pravidly, jako je použití fontu *Poppins* nebo jakéhokoliv jiného bezpatkového fontu a dodržování monochromatické barevné palety, která je předem definovaná pro dodržení kontrastních zásad. Tato paleta se skládá z jedné hlavní barvy a z její tmavších a světlejších odstínů. Pokud se změní hlavní barva, změní se automaticky barvy veškeré. Je zakázáno měnit, přidávat nebo odebírat jakékoliv barvy, mimo hlavní.
 
-Název barvy | Hex
------------  -----
-Hlavní barva | #F2C572
-Vedlejší barva | #956F28
-Barva světlé sekce | #F9F9F9
-Barva tmavé sekce | #373737
-Barva textu | #000000
-Barva pozadí | #FFFFFF
+| Název barvy      | Hex      |
+|------------------|----------|
+| Hlavní barva     | #F2C572  |
+| Vedlejší barva   | #956F28  |
+| Barva světlé sekce | #F9F9F9  |
+| Barva tmavé sekce | #373737  |
+| Barva textu      | #000000  |
+| Barva pozadí     | #FFFFFF  |
 
 ## 📜Struktura projektu
-    Není zatím známa
+Není zatím známa
 
 ## 📱Github příkazy 
 - Naklonování repozitáře na lokální úložiště: `git clone https://github.com/PatrikDemel/msoz-projekt`

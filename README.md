@@ -47,7 +47,7 @@ Není zatím známa
 ## 🪄To-do list
 - [x]  Vytvořit github repozitář
 - [x]  Vytvořit design
-- [ ]  Schválit design
+- [x]  Schválit design
 - [ ]  Vytvořit HTML šablonu
 - [ ]  Udělat web dynamickým
 - [ ]  Schválit front-end

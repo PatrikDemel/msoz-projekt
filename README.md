@@ -10,7 +10,7 @@ Web pro *Mezinárodní spolek na ochranu zvířat*, který je založen na static
 - [Patrik Demel](https://github.com/PatrikDemel) - Design a front-end
 - [Tomáš Frenzel](https://github.com/TomasFrenzel) - Back-end a databáze
 - [Lukáš Hon](https://github.com/LukasHon) - Testing
-- [Vojtěch Adam](https://github.com/HelloItsMeAdm) - nevím nevyjádřil se :(
+- [Vojtěch Adam](https://github.com/HelloItsMeAdm) - Back-end a databáze
 
 ## 🖥️Technologie
 - **Design:** Figma

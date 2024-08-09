@@ -25,12 +25,12 @@ Web se řídí několika designerskými pravidly, jako je použití fontu *Poppi
 
 | Název barvy      | Hex      |
 |------------------|----------|
-| Hlavní barva     | #F2C572  |
-| Vedlejší barva   | #956F28  |
-| Barva světlé sekce | #F9F9F9  |
-| Barva tmavé sekce | #373737  |
+| Hlavní barva     | #0089E8  |
+| Vedlejší barva   | #005999  |
+| Barva tmavší sekce | #F9F9F9  |
 | Barva textu      | #000000  |
 | Barva pozadí     | #FFFFFF  |
+| Barva footeru    | #F5FBFF  |
 
 ## 📜Struktura projektu
 Není zatím známa

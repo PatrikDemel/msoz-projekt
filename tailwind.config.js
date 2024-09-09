@@ -4,11 +4,14 @@ export default {
     extend: {
       colors: {
         mainColor: '#F77025',
+        footerColor: '#FFF5F0',
         subheadingColor: '#5E5E5E',
         darkerSectionColor: '#F9F9F9',
       },
       fontSize: {
         navbarSize: '1rem',
+        heading3Size: '1.3rem',
+        footerIconSize: '1.8rem',
       },
       fontWeight: {
         regular: '400',

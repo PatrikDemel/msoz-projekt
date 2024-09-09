@@ -82,6 +82,12 @@ function Footer() {
             </p>
           </div>
         </div>
+        <div className="container mx-auto flex justify-center border-t-subheadingColor border-t-[1px] pt-3 mt-20 pb-10">
+          <p className="text-[0.9rem]">
+            &copy;2024 - Tento web vytvořili Patrik Demel, Vojtěch Adam, Lukáš
+            Hon a Šimon Večerek
+          </p>
+        </div>
       </footer>
     </>
   );

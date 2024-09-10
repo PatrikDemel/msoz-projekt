@@ -12,6 +12,7 @@ export default {
       fontSize: {
         navbarSize: '1rem',
         heading1Size: '3.2rem',
+        heading2Size: '2.2rem',
         heading3Size: '1.3rem',
         footerIconSize: '1.8rem',
         paragraphSize: '1rem',
@@ -21,6 +22,9 @@ export default {
         semibold: '500',
         bold: '600',
         ultrabold: '700',
+      },
+      boxShadow: {
+        custom: '0px 0px 18.5px 1px rgba(0, 0, 0, 0.25)',
       },
     },
   },

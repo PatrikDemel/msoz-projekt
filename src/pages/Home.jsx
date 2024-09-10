@@ -5,6 +5,8 @@ import '../index.css';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import heroImg from '../assets/hero-img.png';
+import qr from '../assets/qr-placeholder.png';
 
 // Icons import
 import {
@@ -60,7 +62,7 @@ function Home() {
           {/* Right side */}
           <div className="flex justify-center md:justify-end w-full md:w-[45%] mt-10 md:mt-0">
             <img
-              src="/src/assets/hero-img.png"
+              src={heroImg}
               alt="Obrázek pejska"
               className="w-3/5 md:w-full lg:w-[80%] aspect-square"
             />
@@ -80,11 +82,7 @@ function Home() {
               <h3 className="text-heading3Size font-bold mb-3 text-center">
                 QR kód
               </h3>
-              <img
-                src="/src/assets/qr-placeholder.png"
-                alt="QR kód"
-                className="w-3/4"
-              />
+              <img src={qr} alt="QR kód" className="w-3/4" />
             </div>
             {/* Box */}
             <div className="bg-white flex flex-col items-center py-8 px-10 md:px-20 shadow-custom mx-5 my-2 md:my-0">

@@ -1,4 +1,5 @@
 import '../index.css';
+import logo from '../assets/logo.png';
 import { Link } from 'react-router-dom';
 
 function Navbar() {
@@ -7,7 +8,7 @@ function Navbar() {
       <nav className="w-full border-b-subheadingColor border-b-[1px] py-2">
         <div className="container flex justify-between mx-auto items-center">
           <Link to="/" className="w-24">
-            <img src="src/assets/logo.png" alt="Logo" className="w-full" />
+            <img src={logo} alt="Logo" className="w-full" />
           </Link>
           <div className="flex">
             <Link to="/" className="px-3">

@@ -14,7 +14,7 @@ function Home() {
       <Navbar />
 
       {/* About section */}
-      <section className="px-10 md:px-0">
+      <section>
         <div className="container flex flex-col items-center mx-auto py-10">
           <h2 className="text-heading2Size font-bold text-center">O nás</h2>
           {/* Left side */}

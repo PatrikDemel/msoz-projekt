@@ -8,6 +8,7 @@ export default {
         footerColor: '#FFF5F0',
         subheadingColor: '#5E5E5E',
         darkerSectionColor: '#F9F9F9',
+        assetColor: '#F2F2F2',
       },
       fontSize: {
         navbarSize: '1rem',

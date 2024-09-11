@@ -7,7 +7,7 @@ import Footer from '../components/Footer';
 import img from '../assets/about-hero-img.avif';
 import teamPlaceholder from '../assets/team-placeholder.avif';
 
-function Home() {
+function About() {
   return (
     <>
       {/* Navbar */}
@@ -120,4 +120,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default About;

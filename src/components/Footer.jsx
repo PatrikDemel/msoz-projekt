@@ -66,7 +66,7 @@ function Footer() {
           <h3 className="text-heading3Size font-bold mb-2">Dokumenty</h3>
           <Link to="/dokumenty/GDPR" className="my-1">
             <p className="text-paragraphSize text-black underline font-regular">
-              Kontakt
+              GDPR
             </p>
           </Link>
           <Link to="/dokumenty/vyrocni-zpravy" className="my-1">

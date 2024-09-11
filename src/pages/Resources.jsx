@@ -25,7 +25,7 @@ function Resources() {
               className="w-[20%] object-cover"
             />
             <div className="flex flex-col">
-              <h3 className="text-heading3Size font-bold mb-3">
+              <h3 className="text-heading3Size font-bold mt-3 mb-1">
                 Co dělat, když si pořídím psa
               </h3>
               <p className="text-paragraphSize text-subheadingColor">
@@ -46,7 +46,7 @@ function Resources() {
               className="w-[20%] object-cover"
             />
             <div className="flex flex-col">
-              <h3 className="text-heading3Size font-bold mb-3">
+              <h3 className="text-heading3Size font-bold mt-3 mb-1">
                 Co dělat, když si pořídím psa
               </h3>
               <p className="text-paragraphSize text-subheadingColor">
@@ -67,7 +67,7 @@ function Resources() {
               className="w-[20%] object-cover"
             />
             <div className="flex flex-col">
-              <h3 className="text-heading3Size font-bold mb-3">
+              <h3 className="text-heading3Size font-bold mt-3 mb-1">
                 Co dělat, když si pořídím psa
               </h3>
               <p className="text-paragraphSize text-subheadingColor">
@@ -88,7 +88,7 @@ function Resources() {
               className="w-[20%] object-cover"
             />
             <div className="flex flex-col">
-              <h3 className="text-heading3Size font-bold mb-3">
+              <h3 className="text-heading3Size font-bold mt-3 mb-1">
                 Co dělat, když si pořídím psa
               </h3>
               <p className="text-paragraphSize text-subheadingColor">
@@ -109,7 +109,7 @@ function Resources() {
               className="w-[20%] object-cover"
             />
             <div className="flex flex-col">
-              <h3 className="text-heading3Size font-bold mb-3">
+              <h3 className="text-heading3Size font-bold mt-3 mb-1">
                 Co dělat, když si pořídím psa
               </h3>
               <p className="text-paragraphSize text-subheadingColor">

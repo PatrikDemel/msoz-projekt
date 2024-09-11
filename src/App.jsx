@@ -1,6 +1,7 @@
 import './index.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
+import About from './pages/About';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <BrowserRouter basename="/msoz">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/o-nas" element={<About />} />
         </Routes>
       </BrowserRouter>
     </>

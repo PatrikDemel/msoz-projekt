@@ -29,7 +29,7 @@ function Home() {
       <Navbar />
 
       {/* Hero section */}
-      <section className="bg-darkerSectionColor pt-5 w-full px-5 md:px-0">
+      <section className="bg-darkerSectionColor pt-5 w-full px-5 md:px-0 px-2">
         {/* Responsive container */}
         <div className="container mx-auto flex flex-col md:flex-row md:justify-between">
           {/* Left side */}

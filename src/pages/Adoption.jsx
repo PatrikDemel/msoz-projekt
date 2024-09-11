@@ -12,7 +12,7 @@ function Adoption() {
       {/* Navbar */}
       <Navbar />
       {/* Adoption section */}
-      <section className="py-10 min-h-[80vh]">
+      <section className="py-10 min-h-[80vh] px-2">
         <div className="container mx-auto">
           <h2 className="text-heading2Size font-bold text-center">
             Zvířata k adopci

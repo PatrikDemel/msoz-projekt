@@ -17,7 +17,7 @@ function Contact() {
       {/* Navbar */}
       <Navbar />
       {/* Contact section */}
-      <section className="py-10 min-h-[70vh]">
+      <section className="py-10 min-h-[70vh] px-2">
         <div className="container mx-auto flex flex-col items-center">
           <h2 className="text-heading2Size font-bold">Kontakt</h2>
           <form className="bg-white shadow-custom w-[90%] md:w-[60%] py-10 mt-5 flex flex-col items-center">

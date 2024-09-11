@@ -12,7 +12,7 @@ function Resources() {
       {/* Navbar */}
       <Navbar />
       {/* Resources section */}
-      <section className="py-10">
+      <section className="py-10 px-2">
         <div className="container mx-auto">
           <h2 className="text-center text-heading2Size font-bold mb-5">
             Materiály

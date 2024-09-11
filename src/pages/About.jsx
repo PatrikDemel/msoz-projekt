@@ -14,7 +14,7 @@ function About() {
       <Navbar />
 
       {/* About section */}
-      <section>
+      <section className="px-2">
         <div className="container flex flex-col items-center mx-auto py-10">
           <h2 className="text-heading2Size font-bold text-center">O nás</h2>
           {/* Left side */}
@@ -61,7 +61,7 @@ function About() {
         </div>
       </section>
       {/* Team section */}
-      <section className="bg-darkerSectionColor py-10">
+      <section className="bg-darkerSectionColor py-10 px-2">
         <div className="container mx-auto">
           <h2 className="text-heading2Size font-bold text-center">Náš tým</h2>
           {/* Team container */}

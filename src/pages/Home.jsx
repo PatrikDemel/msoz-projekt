@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import heroImg from '../assets/hero-img.png';
-import qr from '../assets/qr-placeholder.png';
+import qr from '../assets/qr.png';
 
 // Icons import
 import {
@@ -78,11 +78,11 @@ function Home() {
           {/* Boxes container */}
           <div className="flex flex-col items-stretch md:justify-center md:flex-row mt-7">
             {/* Box */}
-            <div className="bg-white flex flex-col items-center py-8 px-10 md:px-20 shadow-custom mx-5 my-2 md:my-0">
+            <div className="bg-white flex flex-col items-center py-8 px-10 md:px-5 shadow-custom mx-5 my-2 md:my-0">
               <h3 className="text-heading3Size font-bold mb-3 text-center">
                 QR kód
               </h3>
-              <img src={qr} alt="QR kód" className="w-3/4" />
+              <img src={qr} alt="QR kód" className="w-2/4" />
             </div>
             {/* Box */}
             <div className="bg-white flex flex-col items-center py-8 px-10 md:px-20 shadow-custom mx-5 my-2 md:my-0">

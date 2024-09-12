@@ -29,9 +29,9 @@ function Home() {
       <Navbar />
 
       {/* Hero section */}
-      <section className="bg-darkerSectionColor pt-5 w-full px-5 md:px-0 px-2">
+      <section className="bg-darkerSectionColor pt-5 w-full">
         {/* Responsive container */}
-        <div className="container mx-auto flex flex-col md:flex-row md:justify-between">
+        <div className="container mx-auto flex flex-col md:flex-row md:justify-between px-16">
           {/* Left side */}
           <div className="flex flex-col w-full md:w-[55%] mt-20">
             <p className="text-subheadingColor text-paragraphSize font-bold">
@@ -64,7 +64,7 @@ function Home() {
             <img
               src={heroImg}
               alt="Obrázek pejska"
-              className="w-3/5 md:w-full lg:w-[80%] aspect-square"
+              className="w-full xl:w-[65%] aspect-square"
             />
           </div>
         </div>

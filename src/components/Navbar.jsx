@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function Navbar() {
   return (
     <>
-      <nav className="w-full border-b-subheadingColor border-b-[1px] py-2">
+      <nav className="w-full border-b-subheadingColor border-b-[1px] py-2 px-6">
         <div className="container flex justify-between mx-auto items-center">
           <Link to="/" className="w-24">
             <img src={logo} alt="Logo" className="w-full" />

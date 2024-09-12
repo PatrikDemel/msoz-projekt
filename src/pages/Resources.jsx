@@ -12,13 +12,13 @@ function Resources() {
       {/* Navbar */}
       <Navbar />
       {/* Resources section */}
-      <section className="py-10 px-2">
+      <section className="py-10 px-10 min-h-[80vh]">
         <div className="container mx-auto">
           <h2 className="text-center text-heading2Size font-bold mb-5">
             Materiály
           </h2>
           {/* Article */}
-          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch mb-5">
+          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch mb-5 pe-5">
             <img
               src={articlePlaceholder}
               alt="Náhledový obrázek článku"
@@ -30,16 +30,12 @@ function Resources() {
               </h3>
               <p className="text-paragraphSize text-subheadingColor">
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                Quisque tincidunt scelerisque libero. Praesent dapibus.
-                Temporibus autem quibusdam et aut officiis debitis aut rerum
-                necessitatibus saepe eveniet ut et voluptates repudiandae sint
-                et molestiae non recusandae. Cum sociis natoque penatibus et
-                magnis...
+                Quisque tincidunt scelerisque libero. Praesent dapibus...
               </p>
             </div>
           </div>
           {/* Article */}
-          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch mb-5">
+          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch mb-5 pe-5">
             <img
               src={articlePlaceholder}
               alt="Náhledový obrázek článku"
@@ -51,16 +47,12 @@ function Resources() {
               </h3>
               <p className="text-paragraphSize text-subheadingColor">
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                Quisque tincidunt scelerisque libero. Praesent dapibus.
-                Temporibus autem quibusdam et aut officiis debitis aut rerum
-                necessitatibus saepe eveniet ut et voluptates repudiandae sint
-                et molestiae non recusandae. Cum sociis natoque penatibus et
-                magnis...
+                Quisque tincidunt scelerisque libero. Praesent dapibus...
               </p>
             </div>
           </div>
           {/* Article */}
-          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch mb-5">
+          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch mb-5 pe-5">
             <img
               src={articlePlaceholder}
               alt="Náhledový obrázek článku"
@@ -72,16 +64,12 @@ function Resources() {
               </h3>
               <p className="text-paragraphSize text-subheadingColor">
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                Quisque tincidunt scelerisque libero. Praesent dapibus.
-                Temporibus autem quibusdam et aut officiis debitis aut rerum
-                necessitatibus saepe eveniet ut et voluptates repudiandae sint
-                et molestiae non recusandae. Cum sociis natoque penatibus et
-                magnis...
+                Quisque tincidunt scelerisque libero. Praesent dapibus...
               </p>
             </div>
           </div>
           {/* Article */}
-          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch mb-5">
+          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch mb-5 pe-5">
             <img
               src={articlePlaceholder}
               alt="Náhledový obrázek článku"
@@ -93,16 +81,12 @@ function Resources() {
               </h3>
               <p className="text-paragraphSize text-subheadingColor">
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                Quisque tincidunt scelerisque libero. Praesent dapibus.
-                Temporibus autem quibusdam et aut officiis debitis aut rerum
-                necessitatibus saepe eveniet ut et voluptates repudiandae sint
-                et molestiae non recusandae. Cum sociis natoque penatibus et
-                magnis...
+                Quisque tincidunt scelerisque libero. Praesent dapibus...
               </p>
             </div>
           </div>
           {/* Article */}
-          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch">
+          <div className="flex w-[100%] md:w-[70%] mx-auto border-[1px] border-subheadingColor gap-x-4 items-stratch pe-5">
             <img
               src={articlePlaceholder}
               alt="Náhledový obrázek článku"
@@ -114,11 +98,7 @@ function Resources() {
               </h3>
               <p className="text-paragraphSize text-subheadingColor">
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                Quisque tincidunt scelerisque libero. Praesent dapibus.
-                Temporibus autem quibusdam et aut officiis debitis aut rerum
-                necessitatibus saepe eveniet ut et voluptates repudiandae sint
-                et molestiae non recusandae. Cum sociis natoque penatibus et
-                magnis...
+                Quisque tincidunt scelerisque libero. Praesent dapibus...
               </p>
             </div>
           </div>

@@ -4,7 +4,7 @@ import { FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa6';
 
 function Footer() {
   return (
-    <footer className="w-full bg-footerColor border-t-[1px] border-subheadingColor py-5">
+    <footer className="w-full bg-footerColor border-t-[1px] border-subheadingColor py-5 px-6">
       <div className="container mx-auto flex flex-col md:flex-row md:justify-between px-5 md:px-0">
         {/* Links section */}
         <div className="flex flex-col mb-12 md:mb-0">

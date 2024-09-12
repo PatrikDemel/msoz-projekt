@@ -12,8 +12,8 @@ function Adoption() {
       {/* Navbar */}
       <Navbar />
       {/* Adoption section */}
-      <section className="py-10 min-h-[80vh] px-2">
-        <div className="container mx-auto">
+      <section className="py-10 min-h-[80vh]">
+        <div className="container mx-auto px-16">
           <h2 className="text-heading2Size font-bold text-center">
             Zvířata k adopci
           </h2>

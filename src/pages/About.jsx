@@ -14,8 +14,8 @@ function About() {
       <Navbar />
 
       {/* About section */}
-      <section className="px-2">
-        <div className="container flex flex-col items-center mx-auto py-10">
+      <section>
+        <div className="container flex flex-col items-center mx-auto py-10 px-16">
           <h2 className="text-heading2Size font-bold text-center">O nás</h2>
           {/* Left side */}
           <div className="flex flex-col md:flex-row justify-between mt-10">

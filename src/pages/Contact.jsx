@@ -26,6 +26,7 @@ function Contact() {
               placeholder="Jméno a příjmení..."
               className="border-b-[1px] border-b-black w-[80%] outline-none py-1 my-2"
               required
+              autoComplete="name"
               onChange={(e) => setName(e.target.value)}
             />
             <input
@@ -33,12 +34,14 @@ function Contact() {
               placeholder="Email..."
               className="border-b-[1px] border-b-black w-[80%] outline-none py-1 my-2"
               required
+              autoComplete="email"
               onChange={(e) => setEmail(e.target.value)}
             />
             <textarea
               className="h-40 resize-none w-[80%] outline-none border-b-black border-b-[1px] py-1 my-2"
               placeholder="Zpráva..."
               required
+              maxLength="500"
               onChange={(e) => setMessage(e.target.value)}></textarea>
             <input
               type="submit"
